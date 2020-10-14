@@ -14,8 +14,8 @@ Natom: a **rails** , **express.js** and **vue(nuxt).js** coder and designer.
 - 💎 I love ruby.
 
 ## Contact
-- [Natom.work Website](www.natom.work) (sometime not available)
-- [Gentoo.app Wiki](www.gentoo.app) (Tempolary not available)
+- [Natom.work Website](https://www.natom.work) (sometime not available)
+- [Gentoo.app Wiki](https://www.gentoo.app) (Tempolary not available)
 - [EMail on info@gentoo.app](mailto:info@gentoo.app)
 
 ## Release
