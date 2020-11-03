@@ -9,8 +9,9 @@ Natom: a **rails** , **express.js** and **vue(nuxt).js** coder and designer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Features
-- 🍛 I lov curry 💕 करी
+- 🍛 I love curry 💕 करी
 - 👩‍🎓 I go to high school during the week. I am interested in economic/financial.
+- 👬 I have an entrance examination. Plz cheer me up.
 - 💎 I love ruby.
 
 ## Contact
