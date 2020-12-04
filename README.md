@@ -13,6 +13,7 @@ Natom: a **rails** , **express.js** and **vue(nuxt).js** coder and designer.
 - 👩‍🎓 I go to high school during the week. I am interested in economic/financial.
 - 👬 I have an entrance examination. Plz cheer me up.
 - 💎 I love ruby.
+- 🎓 2021- Chuo University
 
 ## Contact
 - [Natom.work Website](https://www.natom.work) (sometime not available)
