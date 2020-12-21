@@ -11,8 +11,7 @@ Natom: a **rails** , **express.js** and **vue(nuxt).js** coder and designer.
 ## Features
 - 🍛 I love curry 💕 करी
 - 👩‍🎓 I go to high school during the week. I am interested in economic/financial.
-- 👬 I have an entrance examination. Plz cheer me up.
-- 💎 I love ruby.
+- 💎 I love ruby. Also for NuxtJS.
 - 🎓 2021- Chuo University
 
 ## Contact
