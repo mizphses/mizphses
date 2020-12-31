@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/height-180.1-000000.svg?style=for-the-badge)
 ![](https://img.shields.io/badge/age-17-ff7964.svg?style=for-the-badge)
 
-Natom: a **rails** , **express.js** and **vue(nuxt).js** coder and designer.
+Natom: a **rails** , **express.js** （ほぼ全くわからない） and **vue(nuxt).js** coder and designer.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mizphses)](https://github.com/anuraghazra/github-readme-stats)
 
