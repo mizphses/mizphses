@@ -21,5 +21,8 @@ Natom: a **rails** , **express.js** and **vue(nuxt).js** coder and designer.
 
 ## Release
 
+### v.1.0.0-2021
+明けましておめでとうございます。今年もよろしくお願いいたします。
+
 ### v.1.0.0
 I was born in FEB 28 2003
