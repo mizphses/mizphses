@@ -4,25 +4,27 @@
 
 Natom: a **rails** , **express.js** （ほぼ全くわからない） and **vue(nuxt).js** coder and designer.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mizphses)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mizphses)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 
 ## Features
 - 🍛 I love curry 💕 करी
 - 👩‍🎓 I go to high school during the week. I am interested in economic/financial.
 - 💎 I love ruby. Also for NuxtJS.
-- 🎓 2021- Chuo University
+- 🎓 2021- Chuo University (2018-2021 Okayama Gakugeikan Seishu)
 
 ## Contact
-- [Natom.work Website](https://www.natom.work) (sometime not available)
-- [Gentoo.app Wiki](https://www.gentoo.app) (Tempolary not available)
-- [EMail on info@gentoo.app](mailto:info@gentoo.app)
+- [My personal Info](https://www.natom.work)
+- [EMail on nano@mizphses.com](mailto:nano@mizphses.com)
 
 ## Release
 
-### v.1.0.0-2021
+### v18.4.2
+中央大学に入学しました。とりあえず４年間よろしくです。
+
+### v.18.1.1
 明けましておめでとうございます。今年もよろしくお願いいたします。
 
-### v.1.0.0
-I was born in FEB 28 2003
+### v.0.2.28
+2/28生まれ
