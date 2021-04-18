@@ -1,5 +1,5 @@
 # @mizphses as known as Natom
-![](https://img.shields.io/badge/height-180.1-000000.svg?style=for-the-badge)
+![](https://img.shields.io/badge/height-179.7-000000.svg?style=for-the-badge)
 ![](https://img.shields.io/badge/age-17-ff7964.svg?style=for-the-badge)
 
 Natom: a **rails** , **express.js** （ほぼ全くわからない） and **vue(nuxt).js** coder and designer.
