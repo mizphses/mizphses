@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/height-179.7-000000.svg?style=for-the-badge)
 ![](https://img.shields.io/badge/age-17-ff7964.svg?style=for-the-badge)
 
-Natom: a **rails** , **express.js** （ほぼ全くわからない） and **vue(nuxt).js** coder and designer.
+Natom: a Web coder and designer.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mizphses)
 
@@ -10,13 +10,17 @@ Natom: a **rails** , **express.js** （ほぼ全くわからない） and **vue(
 
 ## Features
 - 🍛 I love curry 💕 करी
-- 👩‍🎓 I go to high school during the week. I am interested in economic/financial.
+- 👩‍🎓 Chuo Univ Econ.
 - 💎 I love ruby. Also for NuxtJS.
-- 🎓 2021- Chuo University (2018-2021 Okayama Gakugeikan Seishu)
+- 🎓 2018-2021 Okayama Gakugeikan Seishu
+- 🎓 2021- Chuo Univ.
 
 ## Contact
 - [My personal Info](https://www.natom.work)
 - [EMail on nano@mizphses.com](mailto:nano@mizphses.com)
+
+## Media
+- [](https://www.itmedia.co.jp/news/articles/2109/03/news146.html)
 
 ## Release
 
