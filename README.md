@@ -5,7 +5,7 @@ Natom: a Web coder and designer.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mizphses)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizphses)
 
 ## Features
 - 🍛 I love curry 💕 करी
