@@ -10,5 +10,5 @@
 - [ITmedia: コロナワクチンの予診票をブラウザから出力できるWebアプリ、学生が開発　「手書きは面倒に感じた」 ](https://www.itmedia.co.jp/news/articles/2109/03/news146.html)
 
 ## Contact
-- [My personal Info](https://www.natom.work)
+- [My personal Info](https://www.mizphses.com)
 - [Email](mailto:fuminori@mizphses.com)
