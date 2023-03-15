@@ -5,6 +5,7 @@
 
 ## 所属
 * 中央大学経済学部経済情報システム学科 (2021-)
+* CoeFont (2023-, 業務委託)
 
 ## Works
 * Technology Works
