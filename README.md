@@ -1,1 +1,1 @@
-<img align="left" width="390" alt="🐅" src="https://raw.githubusercontent.com/mizphses/mizphses/main/metrics2.svg">
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
